@@ -1,7 +1,7 @@
 # WeGuide
 This is the home page for the website Goblins.com. Buit using Html, CSS and Javascript.
 ## Preview
-<a href='https://nisalshiranda.github.io/WeGuide-Travel-Website/'>Click here</a> to preview the website.
+<a href='https://nisalshiranda.github.io/WeGuide-Travel-Website/'>Click here</a> to preview the website.rf
 
 ## Installation
 To get a local copy up and running, just clone the repo
